@@ -1,16 +1,16 @@
 - 👋 Hi, I’m @Junie207
-- 👀 I’m interested in 
- <Hiking>
- <Reading>
- <Coffee>
+- 👀 I’m interested in ...
+ Hiking, 
+ Books,
+ Coffee. ☕️
 - 🌱 I’m currently learning ...
- <Java.Sript>
- <Español>
- <My.Worth>
+ JavaScript,
+ Español,
+ My.Worth. 💪
 - 💞️ I’m looking to collaborate on ...
- <Anything.Design>
+ Anything Design. 💬
 - 📫 How to reach me ...
- <jodijeannette@gmail.com>
+ jodijeannette@gmail.com
 
 <!---
 Junie207/Junie207 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
